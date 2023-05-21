@@ -1,0 +1,17 @@
+* {
+  position: relative;
+  left: 185px;
+  top: 50px;
+}
+
+h1 {
+  left: 180px;
+  font-size: 100px;
+}
+
+button {
+  margin-left: 50px;
+  left: -46px;
+  width: 100px;
+  height: 100px;
+}
